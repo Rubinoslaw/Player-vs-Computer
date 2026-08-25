@@ -18,8 +18,8 @@ Never gonna give up! You can win.
 </p>
 
 ## Credits
-Code and graphics: Filip (Rubinosław from REParadoxy)
-Music: ToMek OsuMek
+- Code and graphics: Filip (Rubinosław from REParadoxy)
+- Music: ToMek OsuMek
 
 ### [Official Launch Trailer (YouTube)](https://www.youtube.com/watch?v=3OgRkYlxIo4)
 

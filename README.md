@@ -14,7 +14,7 @@ Never gonna give up! You can win.
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/Rubinoslaw/Player-vs-Computer/blob/main/Screenshot%20from%202026-08-25%2016-42-33.png" alt="Screenshot"/>
+  <img src="https://github.com/Rubinoslaw/Player-vs-Computer/blob/main/Screenshot.png" alt="Screenshot"/>
 </p>
 
 ## Credits
